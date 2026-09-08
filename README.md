@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anbuselvan%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Undergrad%20%7C%20AI%20Specialization%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anbuselvan%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CS%20Graduate%20%7C%20AI%20Specialization%20%7C%20Full%20Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Anbuselvan+%F0%9F%91%8B;Full+Stack+Web+Developer+%7C+Django+%2B+Python;AI+Specialization+%40+Sathyabama;Building+Scalable+%26+Smart+Web+Apps" alt="Typing SVG" />
